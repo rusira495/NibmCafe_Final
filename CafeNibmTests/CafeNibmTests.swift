@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import CafeNibm
+@testable import NibmCafe_Final
 
 class CafeNibmTests: XCTestCase {
 
